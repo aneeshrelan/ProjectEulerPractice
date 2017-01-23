@@ -19,7 +19,7 @@ int main()
 
 		d++;
 	}
-	printf("%lld",max);
-	printf("\n");
+	cout<<max<<"\n";
+	
 	return 0;
 }

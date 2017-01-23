@@ -45,7 +45,7 @@ int main()
 				max = p;
 		}
 
-	printf("Max: %lld\n", max);
+	cout<<max<<"\n";
 
 	return 0;
 }

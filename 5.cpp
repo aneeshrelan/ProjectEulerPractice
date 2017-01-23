@@ -20,8 +20,6 @@ int main()
 	for(int i = 3; i < 20; i++)
 		LCM = lcm(LCM,i);
 
-	printf("%d\n", LCM);
-
-	printf("\n");
+	cout<<LCM<<"\n";
 	return 0;
 }

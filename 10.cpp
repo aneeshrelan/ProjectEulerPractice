@@ -17,7 +17,7 @@ int main()
 				nums[j] = 1;
 		}
 	}
-	printf("%lld\n", sum);
+	cout<<sum<<"\n";
 
 	return 0;
 }

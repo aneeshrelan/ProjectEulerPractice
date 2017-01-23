@@ -36,8 +36,6 @@ int main()
 			
 		}
 
-	printf("%lld\n", max);
-
-	printf("\n");
+cout<<max<<"\n";
 	return 0;
 }

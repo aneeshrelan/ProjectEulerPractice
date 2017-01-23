@@ -14,14 +14,13 @@ int main()
 
 			if(a*a + b*b == c*c)
 			{
-				printf("%d, %d, %d\n", a,b,c);
+				
+				cout<<a<<" "<<b<<" "<<c<<"\n";
 				product = a*b*c;
-				printf("%lld\n", product);
+				cout<<product<<"\n";
 			}
 		}
 	}
-
-	printf("\nDone\n");
 
 	return 0;
 }

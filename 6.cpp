@@ -13,8 +13,6 @@ int main()
 	
 	sum2 = sum2*sum2;
 
-	printf("%ld\n", (sum2-sum1));
-
-	printf("\n");
+	cout<<(sum2-sum1)<<"\n";
 	return 0;
 }

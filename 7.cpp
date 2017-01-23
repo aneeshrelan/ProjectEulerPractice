@@ -21,7 +21,7 @@ int main()
 
 			if(count == n)
 			{
-				printf("%d\n", i);
+				cout<<i<<"\n";
 				break;
 			}
 			for(int j = 2*i; j<size; j+=i)

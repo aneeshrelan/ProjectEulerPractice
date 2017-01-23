@@ -24,6 +24,7 @@ int main()
 	}
 
 	printf("%ld\n", maxP);
+	cout<<maxP<<"\n";
 
 	return 0;
 }
